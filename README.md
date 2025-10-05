@@ -29,9 +29,3 @@ This app uses a **free public weather API** (like [OpenWeatherMap](https://openw
 *(Replace this with your specific API name or link if different.)*
 
 ---
-
-## ⚙️ How to Run the Project
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
